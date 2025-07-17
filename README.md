@@ -51,25 +51,25 @@ The app computes BMI using:
 double bmi = weight / pow(height / 100, 2);
 ```
 This result is fed into calculatorbrain.dart to classify the user’s BMI:
-
+```
 •🟩 Underweight: BMI < 18.5
 •🟨 Normal: 18.5 ≤ BMI < 24.9
 •🟧 Overweight: 25.0 ≤ BMI < 29.9
 •🟥 Obese: BMI ≥ 30.0
-
+```
 Each category includes tailored advice and interpretation text.
 
 ---
 
 ## ✨ Design Highlights
-
+```
 •Primary colors:
     ○Midnight Plum #242038
     ○Lavender Purple #9067C6
     ○Soft Ivory #F7ECE1
 •Typography and icon themes ensure readability and visual balance
 •Modular widgets for easy scalability and reuse
-
+```
 ---
 
 ## 🧑‍💻 Author
@@ -79,11 +79,6 @@ Arjay Christopher J. Tacas Biological Engineer • Full-stack Developer • Data
 
 ## 📄 License
 This project is licensed under the MIT License. Feel free to fork, customize, and share with attribution!
-
----
-
-## 📷 Screenshots
-You can add screenshots of both input and result pages to visually showcase how users interact with the app. Let me know if you'd like captions or alt text!
 
 ---
 
